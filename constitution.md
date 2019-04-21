@@ -46,8 +46,8 @@ A citizen whom;
 - {c} was born within the territory of the state, without regard to the nationality of the parent(s).
 
 ### Variables
-+minimum_wage+ 1 Houro per hour
-+working_age+ 15 years
+- +minimum_wage+ 1 Houro per hour
+- +working_age+ 15 years
 
 ## Article 1: Freedom of Complete Security
 The people have the freedom to remain completely secure, not only from forces outside of their control, but from outside of the confines of our borders, as well threats within. This complete security is extended to them through the possession of any armament one would use to defend themselves. We know that the people would feel forfeited of this right if another arms themselves against them in a manor that would diminish the power of this freedom in their eyes. For this reason, it will be the state's duty keeps such armaments in the hands of those skilled enough to use them. This article enforces the following duties upon the state, and provides the following services to the people.
